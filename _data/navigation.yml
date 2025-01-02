@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/BlueyASI
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -51,7 +51,7 @@ es: &DEFAULT_ES
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/BlueyASI
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -74,6 +74,6 @@ de: &DEFAULT_DE
     - title: "Kontakt"
       section: Kontakt
     - title: "Quellcode des Themas"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://github.com/BlueyASI
 de-DE:
   <<: *DEFAULT_DE
