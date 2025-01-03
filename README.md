@@ -7,7 +7,7 @@
 
 ## Preview - click for live demo
 
-[![screenshot](../assets/img/header.png)][demo-page]
+[![screenshot](/assets/img/header.png)][demo-page]
 
 ## Warning
 
