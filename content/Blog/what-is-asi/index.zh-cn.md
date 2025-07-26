@@ -1,5 +1,5 @@
 ---
-title: "BlueyASI定义的超级人工智能"
+title: "BlueyASI蔚蓝超级人工智能核心定义"
 date: 2025-07-26
 weight: 
 draft: false
