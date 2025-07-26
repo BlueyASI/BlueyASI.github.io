@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project architecture on BlueyASI</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Project architecture on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
+    <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术架构 on BlueyASI</title>
+    <link>http://localhost:1313/zh-cn/tags/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/</link>
+    <description>Recent content in 技术架构 on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ohulab.org@gmail.com (蔚蓝超级人工智能)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (蔚蓝超级人工智能)</webMaster>
+    <copyright>© 2025 蔚蓝超级人工智能</copyright>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>世界上第一个“合成生物智能”以人类活细胞为运行基础。</title>
+      <link>http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/</guid>
+      <description>世界上第一个“合成生物智能”以人类活细胞为运行基础。</description>
+      
+    </item>
+    
+  </channel>
+</rss>

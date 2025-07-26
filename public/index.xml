@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlueyASI</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
+    <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
+    </item>
+    
+    <item>
+      <title>BlueyMemeCoin</title>
+      <link>http://localhost:1313/blueymemecoin/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blueymemecoin/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blueymemecoin/featured.png" />
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/legal/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/legal/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/legal/featured.png" />
+    </item>
+    
+    <item>
+      <title>Website Stack</title>
+      <link>http://localhost:1313/websitestack/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/websitestack/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/websitestack/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/faqs/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/faqs/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/faqs/featured.png" />
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/contact/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

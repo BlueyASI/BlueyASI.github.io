@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>仿生架构 on BlueyASI</title>
+    <link>http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/</link>
+    <description>Recent content in 仿生架构 on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>ohulab.org@gmail.com (蔚蓝超级人工智能)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (蔚蓝超级人工智能)</webMaster>
+    <copyright>© 2025 蔚蓝超级人工智能</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>生命进化对AI发展的启示</title>
+      <link>http://localhost:1313/zh-cn/blog/fractal-architecture/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/fractal-architecture/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>世界上第一个“合成生物智能”以人类活细胞为运行基础。</title>
+      <link>http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/</guid>
+      <description>世界上第一个“合成生物智能”以人类活细胞为运行基础。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
