@@ -4,7 +4,7 @@
 
   <url>
     <loc>http://localhost:1313/zh-tw/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -24,8 +24,50 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/zh-tw/websitestack/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/websitestack/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/websitestack/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/websitestack/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/blueymemecoin/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blueymemecoin/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blueymemecoin/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blueymemecoin/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/zh-tw/about/</loc>
-    <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -42,6 +84,27 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/about/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/legal/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/legal/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/legal/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/legal/"
     />
   </url>
   <url>
@@ -66,27 +129,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-tw/websitestack/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/websitestack/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/websitestack/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/websitestack/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-tw/contact/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -105,48 +147,6 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/contact/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-tw/blueymemecoin/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blueymemecoin/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/blueymemecoin/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/blueymemecoin/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-tw/legal/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/legal/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/legal/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/legal/"
     />
   </url>
   <url>

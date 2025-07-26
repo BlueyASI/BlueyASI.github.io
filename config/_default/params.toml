@@ -13,6 +13,7 @@ defaultBackgroundImage = "featured.png"
 highlightCurrentMenuArea = false
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
+mainSections = [ "blog" ]
 
 [header]
   layout = "fixed"
@@ -30,8 +31,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = true
   showRecentItems = 9
   showMoreLink = true
-  showMoreLinkDest = "Blog"
-  mainSections = [ "Blog" ]
+  showMoreLinkDest = "blog"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true
