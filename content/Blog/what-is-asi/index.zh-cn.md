@@ -1,5 +1,5 @@
 ---
-title: "BlueyASI六大核心功能定义超级人工智能ASI"
+title: "BlueyASI六大核心功能定义超级人工智能"
 date: 2025-07-26
 weight: 
 draft: false
@@ -15,7 +15,7 @@ sharingLinks: false
 showComments: false
 ---
 
-BlueyASI（蔚蓝超级人工智能）六大核心功能定义超级人工智能ASI：
+BlueyASI（蔚蓝超级人工智能）六大核心功能定义超级人工智能：
 
 ### 一、**自我意识（Self-Consciousness）**  
 #### **定义透视**  

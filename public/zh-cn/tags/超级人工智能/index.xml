@@ -12,7 +12,7 @@
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E8%B6%85%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>超级人工智能的定义</title>
+      <title>BlueyASI六大核心功能定义超级人工智能ASI</title>
       <link>http://localhost:1313/zh-cn/blog/what-is-asi/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
@@ -52,21 +52,21 @@
     </item>
     
     <item>
-      <title>生命与人工智能的终极进化</title>
-      <link>http://localhost:1313/zh-cn/blog/self-evolution/</link>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
-      <guid>http://localhost:1313/zh-cn/blog/self-evolution/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>生命智能VS人工智能以及AI优化方向</title>
       <link>http://localhost:1313/zh-cn/blog/fractal-life-and-ai/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/fractal-life-and-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生命智能与人工智能的终极进化</title>
+      <link>http://localhost:1313/zh-cn/blog/self-evolution/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/self-evolution/</guid>
       <description></description>
       
     </item>

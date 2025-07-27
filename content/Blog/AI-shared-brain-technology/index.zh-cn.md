@@ -1,10 +1,14 @@
 ---
+background: "featured.jpg"
+featured: "featured.jpg"
 title: "AI节点一体化耦合与共脑技术"
 date: 2025-07-26
 weight: 
 draft: false
 description: "AI节点一体化耦合与共脑技术"
 tags: ["AI耦合","第四代互联网", "AI共脑技术"]
+
+
 showViews: false
 showLikes: false
 showAuthor: true
