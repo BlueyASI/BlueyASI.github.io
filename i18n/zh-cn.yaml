@@ -1,5 +1,6 @@
 global:
   language: "简体中文"
+  site_title: " - 蔚蓝超级人工智能"
 
 article:
   anchor_label: "锚点"

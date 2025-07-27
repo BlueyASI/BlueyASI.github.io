@@ -1,5 +1,6 @@
 global:
   language: "繁體中文"
+  site_title: " - 蔚藍人工超級智慧"
 
 article:
   anchor_label: "定位點"

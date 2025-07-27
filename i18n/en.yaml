@@ -1,5 +1,6 @@
 global:
   language: "EN"
+  site_title: " - Bluey Artificial Super Intelligence"
 
 article:
   anchor_label: "Anchor"
