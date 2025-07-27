@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASI on BlueyASI</title>
+    <link>http://localhost:1313/tags/asi/</link>
+    <description>Recent content in ASI on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
+    <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/asi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Ultimate Evolution of Biological and Artificial Intelligence</title>
+      <link>http://localhost:1313/blog/self-evolution/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/self-evolution/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/self-evolution/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

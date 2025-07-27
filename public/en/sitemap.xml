@@ -24,6 +24,48 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/human-computer-interaction/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/human-computer-interaction/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/human-computer-interaction/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/human-computer-interaction/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -42,6 +84,132 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/about/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/agi/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ai-consciousness/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ai-coupling/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/ai-shared-brain-technology/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/ai-shared-brain-technology/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/ai-shared-brain-technology/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/ai-shared-brain-technology/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/ai-optimization/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/the-real-web4/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/the-real-web4/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/asi/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/bio-architecture/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/bio-vs-ai/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/fractal-life-and-ai/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/fractal-life-and-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/fractal-life-and-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/fractal-life-and-ai/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/what-is-asi/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/what-is-asi/"
     />
   </url>
   <url>
@@ -66,6 +234,45 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/tags/co-brain-tech/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/fractal-architecture/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/fractal-architecture/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/fractal-architecture/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/fractal-architecture/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/integrated-nn/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/lawofone/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/legal/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -84,6 +291,114 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/legal/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/super-ai/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/theone-laws/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/theone-laws/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/theone-laws/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/theone-laws/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/self-consciousness/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/self-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/self-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/self-consciousness/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/self-evolution/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/self-evolution/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/self-evolution/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/self-evolution/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/vision/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/web4/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/web4-hci/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/web4.0/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/web4.0/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/web4.0/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/web4.0/"
     />
   </url>
   <url>
@@ -106,6 +421,18 @@
       hreflang="en"
       href="http://localhost:1313/websitestack/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/bio-arch/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/tech-arch/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/faqs/</loc>
@@ -168,26 +495,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/blog/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/"
     />
   </url>
   <url>

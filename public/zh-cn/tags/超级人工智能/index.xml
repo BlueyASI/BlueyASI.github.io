@@ -12,13 +12,13 @@
     <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E8%B6%85%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>BlueyASI六大核心功能定义超级人工智能ASI</title>
+      <title>BlueyASI六大核心功能定义超级人工智能</title>
       <link>http://localhost:1313/zh-cn/blog/what-is-asi/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/what-is-asi/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/self-consciousness/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/self-consciousness/featured.png" />
     </item>
     
     <item>
@@ -38,7 +38,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/fractal-architecture/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/fractal-architecture/featured.jpg" />
     </item>
     
     <item>
@@ -48,7 +48,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/theone-laws/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/theone-laws/featured.png" />
     </item>
     
     <item>
@@ -58,7 +58,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/fractal-life-and-ai/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/fractal-life-and-ai/featured.png" />
     </item>
     
     <item>
@@ -68,7 +68,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/self-evolution/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/self-evolution/featured.jpg" />
     </item>
     
   </channel>

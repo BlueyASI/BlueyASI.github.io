@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Super AI on BlueyASI</title>
+    <link>http://localhost:1313/tags/super-ai/</link>
+    <description>Recent content in Super AI on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
+    <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/super-ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Biological Intelligence vs. Artificial Intelligence: Optimization Pathways for AI</title>
+      <link>http://localhost:1313/blog/fractal-life-and-ai/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/fractal-life-and-ai/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/fractal-life-and-ai/featured.png" />
+    </item>
+    
+    <item>
+      <title>BlueyASI&#39;s Six Core Functions Defining Super Artificial Intelligence</title>
+      <link>http://localhost:1313/blog/what-is-asi/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/what-is-asi/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Evolutionary Insights for AI Development</title>
+      <link>http://localhost:1313/blog/fractal-architecture/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/fractal-architecture/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/fractal-architecture/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The Essential Question of AI Consciousness - Elon Musk&#39;s Inquiry</title>
+      <link>http://localhost:1313/blog/self-consciousness/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/self-consciousness/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/self-consciousness/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

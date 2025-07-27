@@ -55,6 +55,21 @@
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/the-real-web4/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/ai%E5%85%B1%E8%84%91%E6%8A%80%E6%9C%AF/</loc>
@@ -67,21 +82,82 @@
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/ai%E8%80%A6%E5%90%88/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/ai%E8%80%A6%E5%90%88/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/ai-shared-brain-technology/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/ai-shared-brain-technology/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/ai-shared-brain-technology/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/ai-shared-brain-technology/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/what-is-asi/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/what-is-asi/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/web4.0/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/web4.0/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/web4.0/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/web4.0/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E4%B8%80%E4%BD%93%E5%8C%96%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -103,6 +179,21 @@
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/self-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/self-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/self-consciousness/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/</loc>
@@ -142,30 +233,100 @@
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BDvs%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BDvs%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/fractal-life-and-ai/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/fractal-life-and-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/fractal-life-and-ai/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/fractal-life-and-ai/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/self-evolution/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/self-evolution/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/self-evolution/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/self-evolution/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/fractal-architecture/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/fractal-architecture/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/fractal-architecture/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/fractal-architecture/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/blog/theone-laws/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/theone-laws/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/theone-laws/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/theone-laws/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/%E7%AC%AC%E5%9B%9B%E4%BB%A3%E4%BA%92%E8%81%94%E7%BD%91/</loc>
@@ -184,6 +345,21 @@
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/human-computer-interaction/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/human-computer-interaction/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/human-computer-interaction/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/websitestack/</loc>

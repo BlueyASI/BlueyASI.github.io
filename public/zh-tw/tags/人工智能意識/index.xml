@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人工智能意識 on BlueyASI</title>
+    <link>http://localhost:1313/zh-tw/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%8F%E8%AD%98/</link>
+    <description>Recent content in 人工智能意識 on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>ohulab.org@gmail.com (蔚藍超級人工智能)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (蔚藍超級人工智能)</webMaster>
+    <copyright>© 2025 蔚藍超級人工智能</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%84%8F%E8%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>人工智能意識的本質問題 - 埃隆·馬斯克之問</title>
+      <link>http://localhost:1313/zh-tw/blog/self-consciousness/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚藍超級人工智能)</author>
+      <guid>http://localhost:1313/zh-tw/blog/self-consciousness/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/self-consciousness/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

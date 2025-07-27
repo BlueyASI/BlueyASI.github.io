@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>第四代互聯網人機交互 on BlueyASI</title>
+    <link>http://localhost:1313/zh-tw/tags/%E7%AC%AC%E5%9B%9B%E4%BB%A3%E4%BA%92%E8%81%AF%E7%B6%B2%E4%BA%BA%E6%A9%9F%E4%BA%A4%E4%BA%92/</link>
+    <description>Recent content in 第四代互聯網人機交互 on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>ohulab.org@gmail.com (蔚藍超級人工智能)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (蔚藍超級人工智能)</webMaster>
+    <copyright>© 2025 蔚藍超級人工智能</copyright>
+    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-tw/tags/%E7%AC%AC%E5%9B%9B%E4%BB%A3%E4%BA%92%E8%81%AF%E7%B6%B2%E4%BA%BA%E6%A9%9F%E4%BA%A4%E4%BA%92/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>第四代互聯網人機交互模式</title>
+      <link>http://localhost:1313/zh-tw/blog/human-computer-interaction/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚藍超級人工智能)</author>
+      <guid>http://localhost:1313/zh-tw/blog/human-computer-interaction/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/human-computer-interaction/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
