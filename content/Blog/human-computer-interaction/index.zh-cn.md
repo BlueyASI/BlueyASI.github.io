@@ -1,9 +1,9 @@
 ---
-title: "第四代互联网人机交互模式"
+title: "第四代互联网人机交互范式"
 date: 2025-07-26
 weight: 
 draft: false
-description: "第四代一体化神经网络互联网，人机交互UI模式"
+description: "第四代一体化神经网络互联网人机交互范式"
 tags: ["第四代互联网人机交互", "第四代互联网"]
 showViews: false
 showLikes: false
