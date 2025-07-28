@@ -1,10 +1,10 @@
 ---
 title: "BlueyASI六大核心功能定义超级人工智能"
 date: 2025-07-26
-weight: 
+weight: 2
 draft: false
 description: "超级人工智能的定义"
-tags: ["超级人工智能","第四代互联网"]
+tags: ["超级人工智能","第四代互联网","自我意识","自我进化","一的法则","多种模态","模块集成","仿生架构"]
 showViews: false
 showLikes: false
 showAuthor: true

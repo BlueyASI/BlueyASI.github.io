@@ -1,10 +1,10 @@
 ---
 title: "BlueyASI's Six Core Functions Defining Super Artificial Intelligence"
 date: 2025-07-26
-weight: 
+weight: 2
 draft: false
 description: "Definition of Super Artificial Intelligence"
-tags: ["Super AI","Web4","Integrated NN"]
+tags: ["Super AI","Web4","Integrated NN","Self-evolution","multimodal","Theone Laws","Fractal Architecture","Integrated"]
 showViews: false
 showLikes: false
 showAuthor: true
