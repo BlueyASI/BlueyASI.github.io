@@ -4,7 +4,7 @@ date: 2025-07-26
 weight: 
 draft: false
 description: "AI催化的第四代互联网"
-tags: ["第四代互联网", "Web4.0", "愿景篇"]
+tags: ["第四代互联网", "Web4", "愿景篇","自我意识","自我进化","一的法则","多种模态","模块集成","仿生架构"]
 showViews: false
 showLikes: false
 showAuthor: true
