@@ -4,7 +4,7 @@ date: 2025-07-26
 weight: 
 draft: false
 description: "AI節點一體化耦合與共腦技術"
-tags: ["AI耦合","第四代互聯網", "AI共腦技術","一體化神經網絡"]
+tags: ["AI耦合","第四代互聯網", "AI共腦技術","一體化神經網絡","一的法則"]
 showViews: false
 showLikes: false
 showAuthor: true
