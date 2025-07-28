@@ -1,9 +1,11 @@
 ---
-title: "Project architecture"
+title: "Project Architecture"
 date: 2025-01-01
 draft: false
 description: ""
 tags: ["", ""]
 ---
-The architectural ideas, philosophy, science, culture, ecology, vision, and technology of the Azure Super Artificial Intelligence Project.
-<br>
+
+
+Ideas, vision, philosophy, science, ethics, culture, ecology, and technology of the Bluey Super Artificial Intelligence Project.
+<p>

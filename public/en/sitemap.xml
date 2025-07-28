@@ -87,12 +87,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/agi/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/ai-consciousness/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
