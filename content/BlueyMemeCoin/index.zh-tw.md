@@ -1,9 +1,9 @@
 ---
-title: "蔚藍模因幣"
+title: "蔚藍模因幣BlueyMemeCoin"
 date: 2025-07-26
 weight: 
 draft: false
-description: "蔚藍模因幣"
+description: "蔚藍模因幣BlueyMemeCoin"
 tags: [""]
 showViews: false
 showLikes: false
