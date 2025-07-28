@@ -1,7 +1,7 @@
 ---
 title: "AI-Catalyzed Fourth Generation Internet"
 date: 2025-07-26
-weight: 
+weight: 1
 draft: false
 description: "AI-Catalyzed Fourth Generation Internet"
 tags: ["Web4", "Vision","Self-consciousness","Self-evolution","multimodal","Theone Laws","Fractal Architecture","Integrated"]

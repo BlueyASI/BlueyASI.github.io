@@ -1,7 +1,7 @@
 ---
 title: "AI催化的第四代互聯網"
 date: 2025-07-26
-weight: 
+weight: 1
 draft: false
 description: "AI催化的第四代互聯網"
 tags: ["第四代互聯網", "Web4.0", "願景篇","自我意識","自我進化","一的法則","多種模態","模塊集成","仿生架構"]
