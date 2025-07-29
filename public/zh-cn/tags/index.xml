@@ -42,11 +42,11 @@
     </item>
     
     <item>
-      <title>Web4.0</title>
-      <link>http://localhost:1313/zh-cn/tags/web4.0/</link>
+      <title>Web4</title>
+      <link>http://localhost:1313/zh-cn/tags/web4/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
-      <guid>http://localhost:1313/zh-cn/tags/web4.0/</guid>
+      <guid>http://localhost:1313/zh-cn/tags/web4/</guid>
       <description></description>
       
     </item>
@@ -82,11 +82,31 @@
     </item>
     
     <item>
+      <title>多种模态</title>
+      <link>http://localhost:1313/zh-cn/tags/%E5%A4%9A%E7%A7%8D%E6%A8%A1%E6%80%81/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/tags/%E5%A4%9A%E7%A7%8D%E6%A8%A1%E6%80%81/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>仿生架构</title>
       <link>http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/</link>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>模块集成</title>
+      <link>http://localhost:1313/zh-cn/tags/%E6%A8%A1%E5%9D%97%E9%9B%86%E6%88%90/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/tags/%E6%A8%A1%E5%9D%97%E9%9B%86%E6%88%90/</guid>
       <description></description>
       
     </item>
@@ -137,6 +157,26 @@
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/tags/%E6%84%BF%E6%99%AF%E7%AF%87/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>自我进化</title>
+      <link>http://localhost:1313/zh-cn/tags/%E8%87%AA%E6%88%91%E8%BF%9B%E5%8C%96/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/tags/%E8%87%AA%E6%88%91%E8%BF%9B%E5%8C%96/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>自我意识</title>
+      <link>http://localhost:1313/zh-cn/tags/%E8%87%AA%E6%88%91%E6%84%8F%E8%AF%86/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/tags/%E8%87%AA%E6%88%91%E6%84%8F%E8%AF%86/</guid>
       <description></description>
       
     </item>

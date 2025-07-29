@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/zh-tw/blog/the-real-web4/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/the-real-web4/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/the-real-web4/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/blog/what-is-asi/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/what-is-asi/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/what-is-asi/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/zh-tw/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -42,27 +84,6 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/tags/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-tw/blog/the-real-web4/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/the-real-web4/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/blog/the-real-web4/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/blog/the-real-web4/"
     />
   </url>
   <url>
@@ -115,46 +136,10 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-tw/blog/what-is-asi/</loc>
-    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/what-is-asi/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/blog/what-is-asi/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/blog/what-is-asi/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-tw/tags/web4.0/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/tags/web4.0/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/web4.0/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/tags/web4.0/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/tags/%E4%B8%80%E7%9A%84%E6%B3%95%E5%89%87/</loc>
@@ -197,6 +182,18 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%A7%8B/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E5%A4%9A%E7%A8%AE%E6%A8%A1%E6%85%8B/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E6%A8%A1%E5%A1%8A%E9%9B%86%E6%88%90/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -354,6 +351,18 @@
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/websitestack/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E8%87%AA%E6%88%91%E6%84%8F%E8%AD%98/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E8%87%AA%E6%88%91%E9%80%B2%E5%8C%96/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/blueymemecoin/</loc>

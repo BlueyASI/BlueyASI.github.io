@@ -1,5 +1,5 @@
 ---
-title: "AI催化的第四代互联网"
+title: "AI催化的第四代互联网：BlueyASI一体化神经网络"
 date: 2025-07-26
 weight: 1
 draft: false
