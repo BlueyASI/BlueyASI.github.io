@@ -162,6 +162,12 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/blog/global-unified-currency/</loc>
+    <lastmod>2025-07-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/ai-optimization/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
