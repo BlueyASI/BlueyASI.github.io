@@ -9,7 +9,7 @@
     <managingEditor>ohulab.org@gmail.com (蔚蓝超级人工智能)</managingEditor>
     <webMaster>ohulab.org@gmail.com (蔚蓝超级人工智能)</webMaster>
     <copyright>© 2025 蔚蓝超级人工智能</copyright>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI催化的第四代互联网：BlueyASI一体化神经网络</title>
@@ -29,6 +29,16 @@
       <guid>http://localhost:1313/zh-cn/blog/what-is-asi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
+    </item>
+    
+    <item>
+      <title>液态神经网络LNN仿生架构</title>
+      <link>http://localhost:1313/zh-cn/blog/lnn/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/lnn/</guid>
+      <description></description>
+      
     </item>
     
     <item>
