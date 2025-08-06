@@ -9,7 +9,7 @@
     <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
     <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
     <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
-    <lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fractal-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fractal-architecture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI-Catalyzed Fourth Generation Internet</title>
@@ -29,6 +29,16 @@
       <guid>http://localhost:1313/blog/what-is-asi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Biomimetic Architecture of Liquid Neural Networks (LNN)</title>
+      <link>http://localhost:1313/blog/lnn/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/lnn/</guid>
+      <description></description>
+      
     </item>
     
   </channel>

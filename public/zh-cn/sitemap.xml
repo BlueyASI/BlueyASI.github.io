@@ -91,6 +91,21 @@
     <lastmod>2025-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/tags/lnn/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/lnn/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/lnn/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/%E4%BB%BF%E7%94%9F%E6%9E%B6%E6%9E%84/</loc>
