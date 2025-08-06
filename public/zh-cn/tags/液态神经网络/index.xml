@@ -18,7 +18,7 @@
       <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
       <guid>http://localhost:1313/zh-cn/blog/lnn/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/lnn/feature.png" />
     </item>
     
   </channel>
