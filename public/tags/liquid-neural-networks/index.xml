@@ -18,7 +18,7 @@
       <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
       <guid>http://localhost:1313/blog/lnn/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/lnn/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/lnn/featured.png" />
     </item>
     
   </channel>
