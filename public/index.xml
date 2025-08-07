@@ -9,7 +9,7 @@
     <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
     <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
     <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
-    <lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI-Catalyzed Fourth Generation Internet</title>
@@ -29,6 +29,16 @@
       <guid>http://localhost:1313/blog/what-is-asi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Characteristics of Human Life Intelligence and the Path of Complementarity with AI</title>
+      <link>http://localhost:1313/blog/human-ai-intelligence-fusion-path/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/human-ai-intelligence-fusion-path/</guid>
+      <description></description>
+      
     </item>
     
     <item>
