@@ -1,5 +1,5 @@
 ---
-title: "生命的湧現智能與AI的推理智能融合探索"
+title: "生命湧現智能與AI推理智能融合探索"
 date: 2025-08-10
 weight: 
 draft: false
