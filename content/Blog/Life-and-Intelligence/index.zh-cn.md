@@ -1,5 +1,5 @@
 ---
-title: "生命与智能的本質以及演進之路"
+title: "生命与智能本质以及演进之路"
 date: 2025-08-11
 weight: 
 draft: false
