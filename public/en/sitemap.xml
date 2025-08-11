@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -85,6 +85,45 @@
       hreflang="en"
       href="http://localhost:1313/tags/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/emergent-intelligence/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/ei-ri/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/ei-ri/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/ei-ri/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/ei-ri/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/integrative-intelligence/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/reasoning-intelligence/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/life-intelligence/</loc>

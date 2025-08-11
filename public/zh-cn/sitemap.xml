@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-cn/tags/</loc>
-    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -84,6 +84,65 @@
       rel="alternate"
       hreflang="zh-cn"
       href="http://localhost:1313/zh-cn/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%8E%A8%E7%90%86%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/%E6%8E%A8%E7%90%86%E6%99%BA%E8%83%BD/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/%E6%8E%A8%E7%90%86%E6%99%BA%E8%83%BD/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%95%B4%E5%90%88%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/%E6%95%B4%E5%90%88%E6%99%BA%E8%83%BD/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/%E6%95%B4%E5%90%88%E6%99%BA%E8%83%BD/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/tags/%E6%B6%8C%E7%8E%B0%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-cn/blog/ei-ri/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/ei-ri/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/ei-ri/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/ei-ri/"
     />
   </url>
   <url>
