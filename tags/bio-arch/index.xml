@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bio-Arch on BlueyASI</title><link>https://blueyASI.org/tags/bio-arch/</link><description>Recent content in Bio-Arch on BlueyASI</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor><webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster><copyright>© 2025 Bluey Artificial Super Intelligence</copyright><lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blueyASI.org/tags/bio-arch/index.xml" rel="self" type="application/rss+xml"/><item><title>World's First 'Synthetic Biological Intelligence' Built on Living Human Cells</title><link>https://blueyASI.org/blog/cortical-bioengineered-intelligence/</link><pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate><author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author><guid>https://blueyASI.org/blog/cortical-bioengineered-intelligence/</guid><description>World&amp;rsquo;s first synthetic biological intelligence operates using living human cells.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bio-Arch on BlueyASI</title>
+    <link>http://localhost:1313/tags/bio-arch/</link>
+    <description>Recent content in Bio-Arch on BlueyASI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
+    <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
+    <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/bio-arch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World&#39;s First &#39;Synthetic Biological Intelligence&#39; Built on Living Human Cells</title>
+      <link>http://localhost:1313/blog/cortical-bioengineered-intelligence/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/blog/cortical-bioengineered-intelligence/</guid>
+      <description>World&amp;rsquo;s first synthetic biological intelligence operates using living human cells.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
