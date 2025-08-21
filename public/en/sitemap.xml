@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -85,6 +85,51 @@
       hreflang="en"
       href="http://localhost:1313/tags/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/biological-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/cortical-bioengineered-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/cortical-bioengineered-intelligence/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/cortical-bioengineered-intelligence/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/brain-like-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/human-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/blog/human-intelligence-ai-future/</loc>
@@ -108,26 +153,8 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/human-intelligence/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/integrated-intelligence/</loc>
     <lastmod>2025-08-13T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/biological-intelligence/</loc>
-    <lastmod>2025-08-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -315,6 +342,27 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/blog/agi-and-asi/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/chimerism-segmentation-consciousness/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/chimerism-segmentation-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/chimerism-segmentation-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/chimerism-segmentation-consciousness/"
     />
   </url>
   <url>
@@ -659,18 +707,6 @@
       hreflang="en"
       href="http://localhost:1313/websitestack/"
     />
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/bio-arch/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/tech-arch/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/faqs/</loc>

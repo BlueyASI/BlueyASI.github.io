@@ -51,15 +51,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/fractal-architecture/featured.jpg" />
     </item>
     
-    <item>
-      <title>世界上第一個「合成生物智能」以人類活細胞為運行基礎。</title>
-      <link>http://localhost:1313/zh-tw/blog/cortical-bioengineered-intelligence/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (蔚藍超級人工智能)</author>
-      <guid>http://localhost:1313/zh-tw/blog/cortical-bioengineered-intelligence/</guid>
-      <description>世界上第一個「合成生物智能」以人類活細胞為運行基礎。</description>
-      
-    </item>
-    
   </channel>
 </rss>

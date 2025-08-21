@@ -9,12 +9,12 @@
     <managingEditor>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</managingEditor>
     <webMaster>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</webMaster>
     <copyright>© 2025 Bluey Artificial Super Intelligence</copyright>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Artificial Intelligence</title>
       <link>http://localhost:1313/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
       <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
@@ -22,9 +22,29 @@
     </item>
     
     <item>
+      <title>Biological Intelligence</title>
+      <link>http://localhost:1313/tags/biological-intelligence/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/tags/biological-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Brain-Like Intelligence</title>
+      <link>http://localhost:1313/tags/brain-like-intelligence/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
+      <guid>http://localhost:1313/tags/brain-like-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Human Intelligence</title>
       <link>http://localhost:1313/tags/human-intelligence/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
       <guid>http://localhost:1313/tags/human-intelligence/</guid>
       <description></description>
@@ -37,16 +57,6 @@
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
       <guid>http://localhost:1313/tags/integrated-intelligence/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Biological Intelligence</title>
-      <link>http://localhost:1313/tags/biological-intelligence/</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
-      <guid>http://localhost:1313/tags/biological-intelligence/</guid>
       <description></description>
       
     </item>
@@ -327,26 +337,6 @@
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
       <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
       <guid>http://localhost:1313/tags/web4-hci/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bio-Arch</title>
-      <link>http://localhost:1313/tags/bio-arch/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
-      <guid>http://localhost:1313/tags/bio-arch/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tech-Arch</title>
-      <link>http://localhost:1313/tags/tech-arch/</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (Bluey Artificial Super Intelligence)</author>
-      <guid>http://localhost:1313/tags/tech-arch/</guid>
       <description></description>
       
     </item>

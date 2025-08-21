@@ -9,7 +9,7 @@
     <managingEditor>ohulab.org@gmail.com (蔚蓝超级人工智能)</managingEditor>
     <webMaster>ohulab.org@gmail.com (蔚蓝超级人工智能)</webMaster>
     <copyright>© 2025 蔚蓝超级人工智能</copyright>
-    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI催化的第四代互联网：BlueyASI一体化神经网络</title>
@@ -29,6 +29,26 @@
       <guid>http://localhost:1313/zh-cn/blog/what-is-asi/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/what-is-asi/featured.png" />
+    </item>
+    
+    <item>
+      <title>从嵌合体与多胞胎看生命意识的分与合</title>
+      <link>http://localhost:1313/zh-cn/blog/chimerism-segmentation-consciousness/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/blog/chimerism-segmentation-consciousness/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于我们</title>
+      <link>http://localhost:1313/zh-cn/about/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
+      <guid>http://localhost:1313/zh-cn/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
     </item>
     
     <item>
@@ -129,16 +149,6 @@
       <guid>http://localhost:1313/zh-cn/blog/human-computer-interaction/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/human-computer-interaction/featured.png" />
-    </item>
-    
-    <item>
-      <title>关于我们</title>
-      <link>http://localhost:1313/zh-cn/about/</link>
-      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <author>ohulab.org@gmail.com (蔚蓝超级人工智能)</author>
-      <guid>http://localhost:1313/zh-cn/about/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/about/featured.png" />
     </item>
     
     <item>

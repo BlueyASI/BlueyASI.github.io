@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/tags/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -87,8 +87,29 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/zh-tw/blog/cortical-bioengineered-intelligence/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/cortical-bioengineered-intelligence/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/cortical-bioengineered-intelligence/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/cortical-bioengineered-intelligence/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/zh-tw/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -104,7 +125,29 @@
   </url>
   <url>
     <loc>http://localhost:1313/zh-tw/tags/%E4%BA%BA%E9%A1%9E%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2025-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/tags/%E9%A1%9E%E8%85%A6%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -143,22 +186,6 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/tags/%E6%95%B4%E5%90%88%E6%99%BA%E8%83%BD/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-tw/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/tags/%E7%94%9F%E5%91%BD%E6%99%BA%E8%83%BD/"
     />
   </url>
   <url>
@@ -341,6 +368,27 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/zh-tw/blog/agi-and-asi/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/zh-tw/blog/chimerism-segmentation-consciousness/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/chimerism-segmentation-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/blog/chimerism-segmentation-consciousness/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/zh-tw/blog/chimerism-segmentation-consciousness/"
     />
   </url>
   <url>
@@ -687,12 +735,6 @@
   <url>
     <loc>http://localhost:1313/zh-tw/tags/%E9%A1%98%E6%99%AF%E7%AF%87/</loc>
     <lastmod>2025-07-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/zh-tw/tags/%E6%8A%80%E8%A1%93%E6%9E%B6%E6%A7%8B/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
