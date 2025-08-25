@@ -2,9 +2,9 @@
 title: "从嵌合体与多胞胎看生命意识的分与合"
 date: 2025-08-20
 weight: 
-draft: false
+draft: true
 description: "从生物学现象出发，深入探讨意识演化的分形哲学，融合前沿科学与东方智慧，构建生命意识的三维模型"
-tags: ["生命意识",""]
+tags: ["生命意识","分形哲学","量子意识","嵌合体","多胞胎"]
 showViews: false
 showLikes: false
 showAuthor: true
