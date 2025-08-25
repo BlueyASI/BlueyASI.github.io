@@ -2,7 +2,7 @@
 title: "Two Types of Definitions of AGI and ASI: Functionalism and Strong Consciousness School"
 date: 2025-08-04
 weight: 
-draft: false
+draft: true
 description: "AGI (**Artificial General Intelligence**) and ASI (**Artificial Superintelligence**)"
 tags: ["AGI","ASI"]
 showViews: false

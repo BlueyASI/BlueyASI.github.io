@@ -371,27 +371,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/zh-tw/blog/chimerism-segmentation-consciousness/</loc>
-    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/chimerism-segmentation-consciousness/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/blog/chimerism-segmentation-consciousness/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/zh-tw/blog/chimerism-segmentation-consciousness/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/zh-tw/tags/%E8%B6%85%E7%B4%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
     <lastmod>2025-08-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

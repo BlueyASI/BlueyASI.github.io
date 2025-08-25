@@ -2,7 +2,7 @@
 title: "AGI與ASI功能主義與強意識派的兩類定義"
 date: 2025-08-04
 weight: 
-draft: false
+draft: true
 description: "AGI（**Artificial General Intelligence，通用人工智能**）與ASI（**Artificial Superintelligence，超級人工智能**）"
 tags: ["通用人工智能","超級人工智能"]
 showViews: false
